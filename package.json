@@ -1,7 +1,7 @@
 {
   "name": "ts-library-starter",
   "version": "1.0.0",
-  "description": "Simplified client/server messaging using Redis and WebSockets",
+  "description": "TypeScript library starter template",
   "main": "lib/index.js",
   "scripts": {
     "build": "rm -rf lib/* && tsc",
