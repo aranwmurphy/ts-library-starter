@@ -23,10 +23,6 @@ Lints the project files.
 ### JavaScript
 
 ```javascript
-const Redis = require('ioredis');
-
-const client = new Redis();
-
 async function main() {
     // ... ADD CODE HERE
 }
@@ -35,10 +31,6 @@ async function main() {
 ### TypeScript
 
 ```typescript
-import Redis = require("ioredis");
-
-const client = new Redis();
-
 async function main(): Promise<void> {
     // ... ADD CODE HERE
 }
