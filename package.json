@@ -15,14 +15,9 @@
     "url": "git+https://github.com/aranwmurphy/ts-library-starter.git"
   },
   "keywords": [
-    "websocket",
-    "messaging",
-    "pub",
-    "sub",
-    "simplified",
-    "redis",
-    "ws",
-    "server",
+    "template",
+    "library",
+    "starter",
     "typescript"
   ],
   "author": "Aran Murphy <aranwmurphy@gmail.com> (https://github.com/aranwmurphy)",
