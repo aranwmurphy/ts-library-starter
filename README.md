@@ -24,7 +24,7 @@ Lints the project files.
 
 ```javascript
 async function main() {
-    // ... ADD CODE HERE
+    // ... add code here
 }
 ```
 
@@ -32,7 +32,7 @@ async function main() {
 
 ```typescript
 async function main(): Promise<void> {
-    // ... ADD CODE HERE
+    // ... add code here
 }
 ```
 

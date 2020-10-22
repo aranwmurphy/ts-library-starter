@@ -4,7 +4,7 @@ import { expect } from "chai";
 describe("Class", () => {
     describe("#method()", () => {
         it("should ...", async () => {
-            // ... Add test here
+            // ... add test here
         });
     });
 });
